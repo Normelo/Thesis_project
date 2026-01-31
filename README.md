@@ -1,2 +1,2 @@
 # Thesis_project
-Cnn Modeling
+Machine Learning via Pytorch and CNN Model
